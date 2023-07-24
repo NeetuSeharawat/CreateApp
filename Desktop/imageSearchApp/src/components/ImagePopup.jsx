@@ -1,4 +1,4 @@
-// ImagePopup.js
+
 import React from 'react';
 
 const ImagePopup = ({ image, onClose }) => {

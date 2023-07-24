@@ -1,4 +1,4 @@
-// App.js
+
 import React from 'react';
 import ImageSearch from './components/ImageSearch';
 import './App.css';

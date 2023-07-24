@@ -1,4 +1,4 @@
-// ImageCard.js
+
 import React from 'react';
 import ImagePopup from './ImagePopup';
 

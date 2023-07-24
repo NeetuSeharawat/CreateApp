@@ -1,4 +1,4 @@
-// ImageSearch.js
+
 import React, { useEffect, useState, useRef } from 'react';
 import axios from 'axios';
 import ImageCard from './ImageCard';
